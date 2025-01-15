@@ -22,6 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenShot/dekstop-design-sc.png)
 In the above i added the screenshot of desktop design and in the below one is the mobile design
+<img src="./screenShot/mobile-design-sc.png" width="200" height="100">
 ![](./screenShot/mobile-design-sc.png)
 
 ### Links
@@ -53,6 +54,7 @@ body {
   height: 100vh; /* Full viewport height */
   margin: 0;
 }
+```
 
 ### 2. Rem unit
 change the root font size in the future (e.g., for accessibility or responsive adjustments), the entire layout will adapt proportionally.
@@ -70,6 +72,7 @@ body{
     height: 100vh;
     gap: 50px;
 }
+```
 I use the flex box to place the card in center..
 I learn so  many other things also
 
