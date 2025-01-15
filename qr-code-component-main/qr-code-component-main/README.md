@@ -22,7 +22,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenShot/dekstop-design-sc.png)
 In the above i added the screenshot of desktop design and in the below one is the mobile design
-<img src="./screenShot/mobile-design-sc.png" width="200" height="100">
 ![](./screenShot/mobile-design-sc.png)
 
 ### Links
